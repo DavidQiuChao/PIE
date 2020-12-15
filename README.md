@@ -17,8 +17,8 @@ input|_illumination|reflectance|enhanced
 
 input|enhanced
 ----|-----
-<img src="https://github.com/DavidQiuChao/PIE/blob/main/figs/3.bmp" width = "300" height = "400" alt="3in"/>|<img src="https://github.com/DavidQiuChao/PIE/blob/main/figs/3_res.jpg" width = "300" height = "400" alt="3out"/>
-<img src="https://github.com/DavidQiuChao/PIE/blob/main/figs/4.bmp" width = "300" height = "400" alt="4in"/>|<img src="https://github.com/DavidQiuChao/PIE/blob/main/figs/4_res.jpg" width = "300" height = "400" alt="4out"/>
-<img src="https://github.com/DavidQiuChao/PIE/blob/main/figs/6.bmp" width = "400" height = "400" alt="6in"/>|<img src="https://github.com/DavidQiuChao/PIE/blob/main/figs/6_res.jpg" width = "300" height = "400" alt="6out"/>
+<img src="https://github.com/DavidQiuChao/PIE/blob/main/figs/3.bmp" width = "400" height = "400" alt="3in"/>|<img src="https://github.com/DavidQiuChao/PIE/blob/main/figs/3_res.jpg" width = "400" height = "400" alt="3out"/>
+<img src="https://github.com/DavidQiuChao/PIE/blob/main/figs/4.bmp" width = "400" height = "400" alt="4in"/>|<img src="https://github.com/DavidQiuChao/PIE/blob/main/figs/4_res.jpg" width = "400" height = "400" alt="4out"/>
+<img src="https://github.com/DavidQiuChao/PIE/blob/main/figs/6.bmp" width = "400" height = "400" alt="6in"/>|<img src="https://github.com/DavidQiuChao/PIE/blob/main/figs/6_res.jpg" width = "400" height = "400" alt="6out"/>
 
 

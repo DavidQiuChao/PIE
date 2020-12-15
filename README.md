@@ -12,13 +12,13 @@ Run the command "python main.py -i dataDir", where "dataDir" specifies the figur
 
 input|_illumination|reflectance|enhanced
 ---- |-----|------|-------
-<img src="https://github.com/DavidQiuChao/PIE/blob/main/figs/1_.bmp" width = "100" height = "200" alt="in"/>|<img src="https://github.com/DavidQiuChao/PIE/blob/main/figs/1_I.jpg" width = "100" height = "200" alt="il"/>|<img src="https://github.com/DavidQiuChao/PIE/blob/main/figs/1_R.jpg" width = "100" height = "200" alt="ref"/>|<img src="https://github.com/DavidQiuChao/PIE/blob/main/figs/1_res.jpg" width = "100" height = "200" alt="res"/>
+<img src="https://github.com/DavidQiuChao/PIE/blob/main/figs/1_.bmp" width = "200" height = "300" alt="in"/>|<img src="https://github.com/DavidQiuChao/PIE/blob/main/figs/1_I.jpg" width = "200" height = "300" alt="il"/>|<img src="https://github.com/DavidQiuChao/PIE/blob/main/figs/1_R.jpg" width = "200" height = "300" alt="ref"/>|<img src="https://github.com/DavidQiuChao/PIE/blob/main/figs/1_res.jpg" width = "200" height = "300" alt="res"/>
 
 
 input|enhanced
 ----|-----
-<img src="https://github.com/DavidQiuChao/PIE/blob/main/figs/3.bmp" width = "100" height = "200" alt="3in"/>|<img src="https://github.com/DavidQiuChao/PIE/blob/main/figs/3_res.jpg" width = "100" height = "200" alt="3out"/>
-<img src="https://github.com/DavidQiuChao/PIE/blob/main/figs/4.bmp" width = "100" height = "200" alt="4in"/>|<img src="https://github.com/DavidQiuChao/PIE/blob/main/figs/4_res.jpg" width = "100" height = "200" alt="4out"/>
-<img src="https://github.com/DavidQiuChao/PIE/blob/main/figs/6.bmp" width = "100" height = "200" alt="6in"/>|<img src="https://github.com/DavidQiuChao/PIE/blob/main/figs/6_res.jpg" width = "100" height = "200" alt="6out"/>
+<img src="https://github.com/DavidQiuChao/PIE/blob/main/figs/3.bmp" width = "300" height = "400" alt="3in"/>|<img src="https://github.com/DavidQiuChao/PIE/blob/main/figs/3_res.jpg" width = "300" height = "400" alt="3out"/>
+<img src="https://github.com/DavidQiuChao/PIE/blob/main/figs/4.bmp" width = "300" height = "400" alt="4in"/>|<img src="https://github.com/DavidQiuChao/PIE/blob/main/figs/4_res.jpg" width = "300" height = "400" alt="4out"/>
+<img src="https://github.com/DavidQiuChao/PIE/blob/main/figs/6.bmp" width = "400" height = "400" alt="6in"/>|<img src="https://github.com/DavidQiuChao/PIE/blob/main/figs/6_res.jpg" width = "300" height = "400" alt="6out"/>
 
 

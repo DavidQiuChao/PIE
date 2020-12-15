@@ -1,2 +1,24 @@
 # PIE
-Python code for  "A Probabilistic Method for Image Enhancement With Simultaneous Illumination and Reflectance Estimation" paper (2015 TIP).
+
+This code implements the paper of "A Probabilistic Method for Image Enhancement With Simultaneous Illumination and Reflectance Estimation" paper,TIP,in 2015. Since the original project,[PIE](http://smartdsp.
+xmu.edu.cn/Appendix.html), is wirten by Matlab and provide ".p" file for encryption,this project is made for throughly understand the idea behind the paper.
+
+## Usage
+
+Run the command "python main.py -i dataDir", where "dataDir" specifies the figures to be processed. For more information, please see the "main.py" in detail.
+
+
+## Sample Results
+
+input|_illumination|reflectance|enhanced
+---- |-----|------|-------
+<img src="https://github.com/DavidQiuChao/PIE/blob/main/figs/1_.bmp" width = "100" height = "200" alt="in"/>|<img src="https://github.com/DavidQiuChao/PIE/blob/main/figs/1_I.jpg" width = "100" height = "200" alt="il"/>|<img src="https://github.com/DavidQiuChao/PIE/blob/main/figs/1_R.jpg" width = "100" height = "200" alt="ref"/>|<img src="https://github.com/DavidQiuChao/PIE/blob/main/figs/1_res.jpg" width = "100" height = "200" alt="res"/>
+
+
+input|enhanced
+----|-----
+<img src="https://github.com/DavidQiuChao/PIE/blob/main/figs/3.bmp" width = "100" height = "200" alt="3in"/>|<img src="https://github.com/DavidQiuChao/PIE/blob/main/figs/3_res.jpg" width = "100" height = "200" alt="3out"/>
+<img src="https://github.com/DavidQiuChao/PIE/blob/main/figs/4.bmp" width = "100" height = "200" alt="4in"/>|<img src="https://github.com/DavidQiuChao/PIE/blob/main/figs/4_res.jpg" width = "100" height = "200" alt="4out"/>
+<img src="https://github.com/DavidQiuChao/PIE/blob/main/figs/6.bmp" width = "100" height = "200" alt="6in"/>|<img src="https://github.com/DavidQiuChao/PIE/blob/main/figs/6_res.jpg" width = "100" height = "200" alt="6out"/>
+
+

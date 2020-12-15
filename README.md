@@ -1,6 +1,6 @@
 # PIE
 
-This code implements the paper of **"A Probabilistic Method for Image Enhancement With Simultaneous Illumination and Reflectance Estimation"** paper,TIP,in 2015. Since the original project,[Xueyang Fu](http://smartdsp.xmu.edu.cn/Appendix.html), is wirten by **Matlab** and provide **".p"** file for encryption,this project is made for throughly understand the idea behind the paper.
+This code implements the paper of **"A Probabilistic Method for Image Enhancement With Simultaneous Illumination and Reflectance Estimation"** ,TIP,in 2015. Since the original project,[Xueyang Fu](http://smartdsp.xmu.edu.cn/Appendix.html), is wirten by **Matlab** and provide **".p"** file for encryption,this project is made for throughly understand the idea behind the paper.
 
 ## Usage
 
